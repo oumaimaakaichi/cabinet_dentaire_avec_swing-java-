@@ -1,0 +1,29 @@
+Le projet de cette année
+consiste à créer une application de gestion d’un cabinet dentaire.
+L’application sera utilisée par le dentiste ainsi que son assistante
+(secrétaire).
+
+L’assistante peut utiliser
+l’application pour :
+
+·        
+Créer et enregistrer les fiches des patients (nom, prénom, date
+de naissance, adresse, profession, numéro de téléphone,…).     
+Modifier les informations d’un patient. 
+ 
+Rechercher la fiche d’un patient. 
+Supprimer la fiche d’un patient. 
+Enregistrer des rendez-vous demandés par téléphone. 
+Modifier un rendez-vous. 
+Annuler un rendez-vous.  
+
+
+Le dentiste peut utiliser l’application pour : 
+Consulter le planning des rendez-vous. 
+Consulter les fiches des patients. 
+Rechercher la fiche d’un patient. 
+Enregistrer un soin réalisé au profit d’un patient
+(détartrage, plombage, dévitalisation dentaire, extraction dentaire, scellement des sillons…)
+Consulter la liste des soins réalisés pour un patient
+donné. 
+Modifier les informations relatives à un soin réalisé.
